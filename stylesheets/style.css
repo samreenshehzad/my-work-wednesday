@@ -1,0 +1,66 @@
+#cart-btn{
+  background-color:#ed4c4f; 
+  color:white;
+  padding: 1em 3em 1em 3em;
+}
+  #cart-btn:hover{
+    background-color: yellow;
+    }
+#start-btn{
+background-color:#fdd835;
+border-color:#2a61fb;
+color:#2a61fb;
+padding: 1em 1em 1em 1em;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Gugi', cursive;
+}
+ #start-btn:hover{
+  background-color:#2a61fb;
+  }
+  #login-btn {  
+  border-style:none;
+    color:white;
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+    border-radius: 30px;
+    background-image: linear-gradient(to right, lightblue , lightgreen);
+    font-family: 'Magra', sans-serif;
+    font-family: 'Martel Sans', sans-serif;lo
+      } 
+      #login-btn:hover{
+      background-color: yellow;
+      }
+
+
+    #signup-btn {
+      background-color:white;
+      color: #6749ea;
+      border-color: #6749ea;
+       padding-top: 10px;
+       padding-bottom: 10px;
+       padding-right: 10px;
+       padding-left: 10px;
+        font-family: 'Magra', sans-serif;
+        font-family: 'Martel Sans', sans-serif lo;
+       border-radius: 10px;
+      }
+       #signup-btn:hover{
+        background-color: yellow;
+        }
+        #subscribe-btn {
+      background-color:#f38e31;
+      color: white;
+      border-style:none;
+       padding-top: 10px;
+       padding-bottom: 10px;
+       padding-right: 30px;
+       padding-left: 30px;
+        font-family: 'Magra', sans-serif;
+       font-family: 'Martel Sans', sans-serif lo;
+       border-radius: 10px;
+       }
+        #subscribe-btn:hover{
+        background-color: yellow;
+        }
